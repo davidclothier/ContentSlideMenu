@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ItemSlideMenu">
+        <attr name="iconDrawable" format="reference" />
+        <attr name="titleText" format="string" />
+        <attr name="infoText" format="string" />
+        <attr name="infoVisible" format="boolean" />
+        <attr name="infoBackColor" format="color" />
+        <attr name="infoTextColor" format="color" />
+        <attr name="checked" format="boolean" />
+        <attr name="state_checked_background_color" format="color" />
+        <attr name="state_normal_background_color" format="color" />
+        <attr name="line_color" format="color" />
+    </declare-styleable>
+
+</resources>
